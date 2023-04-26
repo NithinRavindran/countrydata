@@ -1,0 +1,13 @@
+#btsearch{
+    width: 100px;
+    margin-left: 35%;
+}
+@media (max-width:580px) {
+    .input{
+        max-width: 400px;
+        margin-left: -38%;
+    }
+    .heading{
+        width: 100%;
+    }
+}
